@@ -769,6 +769,7 @@ public class MyJFrame extends JFrame implements Runnable
     }//EndMyCanvas
 
     public static void main(String[] args) {
+
         new MyJFrame();
     }
 
